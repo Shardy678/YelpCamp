@@ -59,6 +59,3 @@ npm run start
 ## Скриншоты
 ![Image of main page](/assets/main_page.png)
 ![Image of index page](/assets/browse.png)
-
-## Демо
-Вы можете посмотреть лайв-версию YelpCamp [здесь](https://yelpcamp-zbdm.onrender.com/). Может долго грузиться из-за бесплатного тира на хостинге.
